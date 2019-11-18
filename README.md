@@ -1,3 +1,3 @@
 # CODEWARS
 
-I'll puttin codewars solutions
+I'll putting codewars solutions
